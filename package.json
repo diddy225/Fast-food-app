@@ -1,0 +1,15 @@
+{
+  "name": "fast-food-app",
+  "version": "1.0.0",
+  "description": "Fast Food Queueing app",
+  "main": "server.js",
+  "repository": "git@github.com:diddy225/Fast-food-app.git",
+  "author": "Matthew C <matthew.j.carpenter1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
