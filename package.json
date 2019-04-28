@@ -10,6 +10,7 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
+    "amqp.node.client": "^1.1.5",
     "express": "^4.16.4"
   }
 }
